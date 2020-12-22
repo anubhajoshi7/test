@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72776" started-at="2020-12-12T06:59:04 EST" finished-at="2020-12-12T07:00:17 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72776" started-at="2020-12-12T06:59:04 EST" finished-at="2020-12-12T07:00:17 EST">
+      <class name="Maven.MavenPractice.LoginPageTest">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Maven.MavenPractice.LoginPageTest@a7e666]" name="testcase1" duration-ms="37105" started-at="2020-12-12T06:59:05 EST" finished-at="2020-12-12T06:59:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:Maven.MavenPractice.LoginPageTest@a7e666]" name="testcase2" duration-ms="35440" started-at="2020-12-12T06:59:42 EST" finished-at="2020-12-12T07:00:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- Maven.MavenPractice.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
